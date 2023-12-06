@@ -1,0 +1,8 @@
+#mainscreen {
+    background: url("rome.jpg");
+    background-repeat: no-repeat;
+    background-size: 1100px 500px;
+  }
+  #room_name {
+      width: 300px;
+  }
